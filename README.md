@@ -1,7 +1,4 @@
-# 💫 About Me
-
-🛠️ **Currently working on**  
-Personal projects focused on backend services, APIs, and AI-powered workflows.
+## 💫 About Me
 
 🤝 **Looking to collaborate on**  
 Backend or full-stack projects using Java, Python, REST APIs, or AI-driven systems.
