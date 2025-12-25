@@ -1,5 +1,23 @@
-# 💫 About Me:
-🛠️ I’m currently working on<br><br>Building personal projects focused on backend services, APIs, and AI-powered workflows, while continuing to strengthen my full-stack development skills.<br><br>🤝 I’m looking to collaborate on<br><br>Backend or full-stack projects involving Java, Python, REST APIs, or AI-driven systems that solve practical, real-world problems.<br><br>🙋‍♂️ I’m looking for help with<br><br>Finding software engineering opportunities where I can contribute to backend or full-stack development while continuing to grow as an engineer.<br><br>🌱 I’m currently learning<br><br>Advanced backend architecture, distributed systems concepts, and applying LLM-based workflows using tools like LangChain and OpenAI.<br><br>💬 Ask me about<br><br>Backend development, Spring Boot, FastAPI, API design, workflow automation, or my experience working on enterprise systems at SAP Labs.<br><br>⚡ Fun fact<br><br>I enjoy automating repetitive tasks and using tools like GitHub Copilot to improve development speed and maintain clean, high-quality code. I also enjoy solving data structures and algorithms problems, which helps sharpen my problem-solving and thinking skills.
+# 💫 About Me
+
+🛠️ **Currently working on**  
+Personal projects focused on backend services, APIs, and AI-powered workflows.
+
+🤝 **Looking to collaborate on**  
+Backend or full-stack projects using Java, Python, REST APIs, or AI-driven systems.
+
+🙋‍♂️ **Looking for help with**  
+Software engineering opportunities where I can grow and contribute effectively.
+
+🌱 **Currently learning**  
+Backend architecture, distributed systems, and practical LLM-based workflows.
+
+💬 **Ask me about**  
+Backend development, Spring Boot, FastAPI, APIs, and my experience at SAP Labs.
+
+⚡ **Fun fact**  
+I enjoy automating repetitive tasks and solving DSA problems to sharpen my thinking.
+
 
 
 ## 🌐 Socials:
