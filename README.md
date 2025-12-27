@@ -1,20 +1,22 @@
 ## 💫 About Me
 
-🤝 **Looking to collaborate on**  
-Backend or full-stack projects using Java, Python, REST APIs, or AI-driven systems.
+Hi there! 👋  
+Nice meeting you, I’m Sanju!
 
-🙋‍♂️ **Looking for help with**  
-Software engineering opportunities where I can grow and contribute effectively.
+💼 *Ex-SAP* professional with hands-on experience in building and supporting scalable enterprise solutions. 
 
-🌱 **Currently learning**  
-Backend architecture, distributed systems, and practical LLM-based workflows.
+💻 Passionate about *software development, **web technologies*, and solving real-world problems.  
 
-💬 **Ask me about**  
-Backend development, Spring Boot, FastAPI, APIs, and my experience at SAP Labs.
+🚀 Currently *looking for new opportunities* where I can contribute, learn, and grow as a developer.
 
-⚡ **Fun fact**  
-I enjoy automating repetitive tasks and solving DSA problems to sharpen my thinking.
+💬 Ask me about:
+•⁠  ⁠Web Development
+•⁠  ⁠Enterprise Applications
+•⁠  ⁠Clean Code & System Design
 
+📫 *How to reach me:*
+•⁠  ⁠LinkedIn: https://www.linkedin.com/in/sanju-revanth-ar/ 
+•⁠  ⁠Email: sanjurevanthar@gmail.com
 
 
 ## 🌐 Socials:
